@@ -2,3 +2,8 @@ header .ag-bg {
 	  background-image: url('../img/slide1.png') !important;
 
 }
+
+img .farmer {
+	border: 50px;
+	padding: 50px;
+}
